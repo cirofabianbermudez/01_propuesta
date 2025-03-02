@@ -21,7 +21,7 @@ hide:
     Mandanos un email dando clic aqui
     </br>
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Go](index.md)
 
 -    :simple-whatsapp:{ .lg .middle } __WhatsApp__
 
@@ -29,6 +29,6 @@ hide:
 
     Puedas mandarnos un mensaje por Whatsapp
 
-    [:octicons-arrow-right-24: Go](../../contacts/index.md)
+    [:octicons-arrow-right-24: Go](index.md)
 
 </div>
