@@ -2,20 +2,17 @@
 draft: false
 date: 2025-01-05
 description: >
-  Seguro de vida
+  Plan de ahorro
 authors: Ciro Bermudez
-icon: fontawesome/solid/hand-holding-medical
+icon: material/piggy-bank
 hide: 
 #  - navigation
 #  - toc
 ---
 
-# :fontawesome-solid-hand-holding-medical: Seguro de vida
+# :material-piggy-bank: Plan de ahorro
 
 ## Descripción
-
-
-![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
 <div class="justify" markdown>
 

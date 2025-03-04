@@ -2,20 +2,17 @@
 draft: false
 date: 2025-01-05
 description: >
-  Seguro de vida
+  Seguro de auto
 authors: Ciro Bermudez
-icon: fontawesome/solid/hand-holding-medical
+icon: material/car-side
 hide: 
 #  - navigation
 #  - toc
 ---
 
-# :fontawesome-solid-hand-holding-medical: Seguro de vida
+# :material-car-side: Seguro de auto
 
 ## Descripción
-
-
-![Image title](https://dummyimage.com/600x200/f5f5f5/aaaaaa?text=–%20Image%20–){ width=100% }
 
 <div class="justify" markdown>
 

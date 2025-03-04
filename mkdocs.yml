@@ -1,11 +1,11 @@
 # Project information
-site_name: Seguros Ramirez Aguilar
+site_name: Seguros
 site_author: Ciro Bermudez
 site_description: Descripcion del sitio web
 
 # Copyright
 copyright: >-
-  Copyright &copy; 2025 Seguros Ramirez Aguilar
+  Copyright &copy; 2025 RA Seguros
 
 # Configuration
 theme:
@@ -101,11 +101,15 @@ markdown_extensions:
 nav:
   - Inicio:
     - index.md
-  - Conoce tu seguro:
+  - Servicios:
     - services/index.md
     - Opciones de seguro:
       - services/seguros/seguro-de-vida.md
       - services/seguros/seguro-medico.md
-      - services/seguros/seguro-para-empresas.md
+      - services/seguros/seguro-empresas.md
+      - services/seguros/seguro-auto.md
+    - Servios financieros:
+      - services/finanzas/planes-retiro.md
+      - services/finanzas/planes-ahorro.md
   - Contacto:
     - contacts/index.md
