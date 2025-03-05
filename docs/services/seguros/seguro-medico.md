@@ -16,6 +16,37 @@ hide:
 
 <div class="justify" markdown>
 
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=–%20Image%20–){ align=left width=300 }
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<br>
+<br>
+
+</div>
+
+
+
+<div class="justify" markdown>
+
+![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=–%20Image%20–){ align=right width=300 }
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+<br>
+<br>
+<br>
+<br>
+
+</div>
+
+
+
+<div class="justify" markdown>
+
 Los **seguros de vida** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non erat dui. Nulla vel neque lacinia, commodo dui quis, imperdiet ipsum. Donec arcu urna, blandit et pharetra vitae, finibus auctor sem. Donec suscipit volutpat ex ut sodales. Curabitur dignissim mauris leo, vitae ultricies risus malesuada at. In convallis lacinia lectus id fermentum. Fusce aliquet aliquet risus a viverra. Sed nec dui pharetra, gravida libero eu, bibendum dolor. Ut tempus velit sed erat mollis pellentesque non et urna. Duis hendrerit odio magna, ac lobortis ipsum tempor vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed eget tellus turpis. Etiam sed odio sed tortor porttitor mattis.
 
 </div>

@@ -29,7 +29,13 @@ body {
     font-size: 0.9em;
 }
 
+/* Justify text is they are lists*/
 .md-typeset .admonition ul li {
+  text-align: justify;
+}
+
+/* Justify text is they are paragraphs*/
+.md-typeset .admonition p {
   text-align: justify;
 }
 
