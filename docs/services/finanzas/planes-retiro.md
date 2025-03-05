@@ -7,7 +7,7 @@ authors: Ciro Bermudez
 icon: material/lightbulb-on
 hide: 
 #  - navigation
-#  - toc
+  - toc
 ---
 
 # :material-lightbulb-on: Plan de retiro

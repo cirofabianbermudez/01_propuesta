@@ -7,7 +7,7 @@ authors: Ciro Bermudez
 icon: material/medical-bag
 hide: 
 #  - navigation
-#  - toc
+  - toc
 ---
 
 # :material-medical-bag: Seguro médico

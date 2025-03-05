@@ -7,7 +7,7 @@ authors: Ciro Bermudez
 icon: material/piggy-bank
 hide: 
 #  - navigation
-#  - toc
+  - toc
 ---
 
 # :material-piggy-bank: Plan de ahorro

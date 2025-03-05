@@ -53,6 +53,6 @@ hide:
 
 | Método                           | Contacto                                        |
 | -------------------------------- | ----------------------------------------------- |
-| :material-email:**Email**        | [tuemail@gmail.com](mailto:tuemail@gmail.com)   |
-| :telephone_receiver:**Teléfono** | [Llamar al +52 222 587 1482](tel:+522225871482) |
-| :simple-whatsapp:**WhatsApp**    | [Escríbenos aquí](https://wa.me/522225871482)   |
+| :material-email: **Email**        | [tuemail@gmail.com](mailto:tuemail@gmail.com)   |
+| :telephone_receiver: **Teléfono** | [Llamar al +52 222 587 1482](tel:+522225871482) |
+| :simple-whatsapp: **WhatsApp**    | [Escríbenos aquí](https://wa.me/522225871482)   |

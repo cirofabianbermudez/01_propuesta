@@ -7,7 +7,7 @@ authors: Ciro Bermudez
 icon: fontawesome/solid/hand-holding-medical
 hide: 
 #  - navigation
-#  - toc
+  - toc
 ---
 
 # :fontawesome-solid-hand-holding-medical: Seguro de vida

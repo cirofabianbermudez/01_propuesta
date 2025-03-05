@@ -7,7 +7,7 @@ authors: Ciro Bermudez
 icon: material/store
 hide: 
 #  - navigation
-#  - toc
+  - toc
 ---
 
 # :material-store: Seguro para empresas

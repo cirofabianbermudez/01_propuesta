@@ -7,7 +7,7 @@ authors: Ciro Bermudez
 icon: material/car-side
 hide: 
 #  - navigation
-#  - toc
+  - toc
 ---
 
 # :material-car-side: Seguro de auto
