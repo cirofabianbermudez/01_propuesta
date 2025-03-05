@@ -10,7 +10,6 @@ copyright: >-
 # Configuration
 theme:
   name: material
-  custom_dir: assets
   language: es
   palette:
 
